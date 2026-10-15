@@ -19,6 +19,11 @@ A React + Vite cafe website customized by Rohit Shinde.
 # ☕ Kadappa Cafe
 
 A modern cafe website showcasing authentic South Indian food.
+<img width="1886" height="880" alt="image" src="https://github.com/user-attachments/assets/08ecba69-c6bd-4b5c-8693-0a315d5b096e" />
+
+<img width="1920" height="863" alt="image" src="https://github.com/user-attachments/assets/bb7789ba-3b33-48ad-afa4-7e6df845a34c" />
+
+
 
 🌐 **Live Website:** [Visit Kadappa Cafe](https://kadappa-cafe-rohit.vercel.app/)
 
@@ -43,4 +48,5 @@ View the complete website here:
 
 - **Live Demo:** https://kadappa-cafe-rohit.vercel.app/
 - **GitHub:** https://github.com/rohitshinde3002/kadappa-cafe-rohit
+  
 Developer profile: https://github.com/rohitshinde3002

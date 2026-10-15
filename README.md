@@ -23,6 +23,19 @@ A modern cafe website showcasing authentic South Indian food.
 
 <img width="1920" height="863" alt="image" src="https://github.com/user-attachments/assets/bb7789ba-3b33-48ad-afa4-7e6df845a34c" />
 
+<img width="1888" height="851" alt="image" src="https://github.com/user-attachments/assets/1e6c383b-8f36-4f10-9afa-17d7f90a27f6" />
+
+<img width="1881" height="876" alt="image" src="https://github.com/user-attachments/assets/ffea345b-d6c7-4ff3-836e-a168d5fe647d" />
+
+<img width="1895" height="868" alt="image" src="https://github.com/user-attachments/assets/25b71002-00dd-4d17-8ca5-6e71f0d54094" />
+
+<img width="1892" height="880" alt="image" src="https://github.com/user-attachments/assets/b243da0a-b826-4dc0-9db5-287ede1b0b61" />
+
+<img width="1886" height="871" alt="image" src="https://github.com/user-attachments/assets/a0d3b8ec-609c-4734-858b-eb330e8751af" />
+
+<img width="1881" height="865" alt="image" src="https://github.com/user-attachments/assets/cf6c3fa4-5b5d-41f7-8e82-6b099c11194c" />
+
+<img width="1882" height="869" alt="image" src="https://github.com/user-attachments/assets/ca489da1-111a-41d8-8d55-fc48a6c03bb7" />
 
 
 🌐 **Live Website:** [Visit Kadappa Cafe](https://kadappa-cafe-rohit.vercel.app/)

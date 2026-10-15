@@ -16,5 +16,31 @@ A React + Vite cafe website customized by Rohit Shinde.
 - Reservation and contact forms prepare an email in the visitor's default mail app; they do not store submissions or confirm a live reservation.
 - Newsletter form similarly prepares an email request; it is not connected to a mailing-list service.
 - Phone, email, directions, Instagram and GitHub links are clickable.
+# ☕ Kadappa Cafe
 
+A modern cafe website showcasing authentic South Indian food.
+
+🌐 **Live Website:** [Visit Kadappa Cafe](https://kadappa-cafe-rohit.vercel.app/)
+
+👨‍💻 **Developer:** Rohit Shinde
+
+🛠️ **Tech Stack:** React, Vite, CSS, Vercel
+
+## 📸 Website Preview
+
+View the complete website here:  
+**https://kadappa-cafe-rohit.vercel.app/**
+
+## ✨ Features
+
+- Responsive cafe website
+- South Indian food menu
+- Home, About, Menu and Contact pages
+- Table booking interface
+- Modern user interface
+
+## 🔗 Links
+
+- **Live Demo:** https://kadappa-cafe-rohit.vercel.app/
+- **GitHub:** https://github.com/rohitshinde3002/kadappa-cafe-rohit
 Developer profile: https://github.com/rohitshinde3002
